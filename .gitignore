@@ -1,0 +1,6 @@
+/node_modules
+.env
+/cypress/reports
+/cypress/integration/examples/AIWebsite.General.test.js
+/cypress/videos
+/cypress/screenshots
